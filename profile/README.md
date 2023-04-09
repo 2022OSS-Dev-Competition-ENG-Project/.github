@@ -174,5 +174,5 @@ Postman : REST API 테스트
 - 정승균 [seunggyun-jeong](https://github.com/seunggyun-jeong) : ENG Project iOS 앱 클라이언트 개발
 - 이정훈 [Jeonghoon2](https://github.com/Jeonghoon2) : ENG Project FacilityService 서버 개발
 - 최보현 [ChoiBoHyeon](https://github.com/ChoiBoHyeon) : ENG Project UserService
-- 조승현 [Cho-Seung-Hyeon](https://github.com/Cho-Seung-Hyeon) : ENG Project Web 클라이언트 개발
+- 조승현 [ChoSeunghyeon](https://github.com/ChoSeunghyeon) : ENG Project Web 클라이언트 개발
 - 현태민 [Hyeontaemin](https://github.com/Hyeontaemin) : ENG Project AI Service 서버 개발
